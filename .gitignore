@@ -50,3 +50,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+
+.chef/syntaxcache/
+.vagrant/machines/default/virtualbox/berkshelf
+Berksfile.lock
